@@ -22,6 +22,6 @@
   "homepage": "https://github.com/aeonfr/vanilla-extract-plugin-nextjs#readme",
   "dependencies": {
     "@vanilla-extract/webpack-plugin": "^1.1.0",
-    "mini-css-extract-plugin": "^2.1.0"
+    "mini-css-extract-plugin": "^1.6.2"
   }
 }
