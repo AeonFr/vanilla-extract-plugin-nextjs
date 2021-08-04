@@ -30,7 +30,7 @@ For NextJs version 10, `npm install vanilla-extract-plugin-nextjs@version10`
 
 For version 11, `npm install vanilla-extract-plugin-nextjs@latest`
 
-# Cavebeats
+# Caveats
 
 This plugin emits warnings to the console:
 
