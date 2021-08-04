@@ -24,6 +24,12 @@ module.exports = withMDX(
 );
 ```
 
+# Versions
+
+For NextJs version 10, `npm install vanilla-extract-plugin-nextjs@version10`
+
+For version 11, `npm install vanilla-extract-plugin-nextjs@latest`
+
 # Cavebeats
 
 This plugin emits warnings to the console:
