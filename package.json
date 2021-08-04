@@ -1,6 +1,6 @@
 {
   "name": "vanilla-extract-plugin-nextjs",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Vanilla-extract plugin for Next.js",
   "main": "withVanillaExtract.js",
   "scripts": {
@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+ssh://git@github.com/aeonfr/vanilla-extract-plugin-nextjs.git"
   },
-  "keywords": ["nextjs", "vanilla-extract"],
+  "keywords": [
+    "nextjs",
+    "vanilla-extract"
+  ],
   "author": "Francisco Brusa",
   "license": "MIT",
   "bugs": {
