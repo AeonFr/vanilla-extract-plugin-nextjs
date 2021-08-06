@@ -25,6 +25,6 @@
     "mini-css-extract-plugin": "^1.6.2"
   },
   "peerDependencies": {
-    "nextjs": "^11"
+    "next": "^11"
   }
 }
