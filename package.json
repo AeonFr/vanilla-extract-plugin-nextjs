@@ -1,6 +1,6 @@
 {
   "name": "vanilla-extract-plugin-nextjs",
-  "version": "0.3.1",
+  "version": "0.3.1-nextjs10",
   "description": "Vanilla-extract plugin for Next.js",
   "main": "withVanillaExtract.js",
   "scripts": {
