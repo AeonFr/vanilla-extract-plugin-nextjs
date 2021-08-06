@@ -10,10 +10,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/aeonfr/vanilla-extract-plugin-nextjs.git"
   },
-  "keywords": [
-    "nextjs",
-    "vanilla-extract"
-  ],
+  "keywords": ["nextjs", "vanilla-extract"],
   "author": "Francisco Brusa",
   "license": "MIT",
   "bugs": {
@@ -25,6 +22,6 @@
     "mini-css-extract-plugin": "^1.6.2"
   },
   "peerDependencies": {
-    "next": "^11"
+    "next": "^10"
   }
 }

@@ -10,7 +10,10 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 function withVanillaExtract(nextConfig = {}) {
   return {
     ...nextConfig,
-    webpack5: true,
+    future: {
+      ...nextConfig.future,
+      webpack5: true,
+    },
     webpack(config, options) {
       nextConfig.webpack && nextConfig.webpack(config, options);
 
