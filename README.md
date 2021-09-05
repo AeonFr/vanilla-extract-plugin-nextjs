@@ -1,3 +1,9 @@
+> **This plugin is deprecated and will no longer be mantained**. It's recommended to use the official plugin, currently being developed ([see PR status](https://github.com/seek-oss/vanilla-extract/pull/336#pullrequestreview-746644897)) but very soon availabe at: `@vanilla-extract/next-plugin`.
+>
+> This package will be kept published until we're 100% sure the official plugin works for Next 10 and 11 and until consumers have time to migrate.
+>
+> **Eventually, though, this package will stop being mantained and eventually unpublished and archived. Be advised!**
+
 # vanilla-extract-plugin-nextjs
 
 A plugin to use `vanilla-extract` in a Next.js project.
